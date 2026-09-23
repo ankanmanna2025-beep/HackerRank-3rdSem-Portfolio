@@ -3,7 +3,7 @@
 
 ## Student Information
 
-- Name: YOUR NAME
+- Name: Ankan Kumar Manna
 - Course: B.Tech CSE
 - Semester: 3rd Semester
 - Language: Python 3
